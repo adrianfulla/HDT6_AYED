@@ -1,6 +1,18 @@
-import jdk.jfr.Category;
-
-import java.util.Calendar;
+/**Universidad del Valle de Guatemala
+ * Facultad de Ingeniería
+ * Departamento de Ciencia de la Computación.
+ * Algoritmos y Estructuras de datos.
+ * Sección: 20
+ *
+ * Hoja de Trabajo #6
+ *
+ * Entorno: El ejercicio tiene como objetivo la simulacion de una tienda online utilizando tres implementaciones de interfaz Map.
+ * Clase: Producto
+ * Proposito: Almacenar datos de un producto
+ *
+ * @author Adrian Fulladolsa Palma
+ *
+ */
 
 public class Producto {
     String nombre;

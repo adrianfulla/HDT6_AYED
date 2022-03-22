@@ -1,9 +1,25 @@
+/**Universidad del Valle de Guatemala
+ * Facultad de Ingeniería
+ * Departamento de Ciencia de la Computación.
+ * Algoritmos y Estructuras de datos.
+ * Sección: 20
+ *
+ * Hoja de Trabajo #6
+ *
+ * Entorno: El ejercicio tiene como objetivo la simulacion de una tienda online utilizando tres implementaciones de interfaz Map.
+ * Clase: Main
+ * Proposito: Ejecutar todos los procesos del programa
+ *
+ * @author Adrian Fulladolsa Palma
+ *
+ */
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Map;
 import java.util.Scanner;
 
 public class Main {
+
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         Lector l = new Lector();

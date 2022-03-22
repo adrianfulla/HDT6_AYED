@@ -1,3 +1,18 @@
+/**Universidad del Valle de Guatemala
+ * Facultad de Ingeniería
+ * Departamento de Ciencia de la Computación.
+ * Algoritmos y Estructuras de datos.
+ * Sección: 20
+ *
+ * Hoja de Trabajo #6
+ *
+ * Entorno: El ejercicio tiene como objetivo la simulacion de una tienda online utilizando tres implementaciones de interfaz Map.
+ * Clase: TreeMapa
+ * Proposito: Clase que extiende Mapa y utiliza TreeMap
+ *
+ * @author Adrian Fulladolsa Palma
+ *
+ */
 import java.util.*;
 
 public class TreeMapa extends Mapa{
