@@ -1,3 +1,5 @@
+package Maps;
+
 /**Universidad del Valle de Guatemala
  * Facultad de Ingeniería
  * Departamento de Ciencia de la Computación.
@@ -7,7 +9,7 @@
  * Hoja de Trabajo #6
  *
  * Entorno: El ejercicio tiene como objetivo la simulacion de una tienda online utilizando tres implementaciones de interfaz Map.
- * Clase: Producto
+ * Clase: Maps.Producto
  * Proposito: Almacenar datos de un producto
  *
  * @author Adrian Fulladolsa Palma

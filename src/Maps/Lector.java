@@ -1,4 +1,4 @@
-/**Universidad del Valle de Guatemala
+package Maps; /**Universidad del Valle de Guatemala
  * Facultad de Ingeniería
  * Departamento de Ciencia de la Computación.
  * Algoritmos y Estructuras de datos.
@@ -7,7 +7,7 @@
  * Hoja de Trabajo #6
  *
  * Entorno: El ejercicio tiene como objetivo la simulacion de una tienda online utilizando tres implementaciones de interfaz Map.
- * Clase: Lector
+ * Clase: Maps.Lector
  * Proposito: Clase que permite la lectura de archivo txt
  *
  * @author Adrian Fulladolsa Palma
